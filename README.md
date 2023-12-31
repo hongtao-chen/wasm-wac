@@ -1,1 +1,1 @@
-# wasm-wac
+# Web Assembly WAC
